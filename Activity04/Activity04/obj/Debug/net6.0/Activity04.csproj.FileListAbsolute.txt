@@ -1,0 +1,15 @@
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\bin\Debug\net6.0\Activity04.exe
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\bin\Debug\net6.0\Activity04.deps.json
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\bin\Debug\net6.0\Activity04.runtimeconfig.json
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\bin\Debug\net6.0\Activity04.dll
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\bin\Debug\net6.0\Activity04.pdb
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\obj\Debug\net6.0\Activity04.csproj.AssemblyReference.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\obj\Debug\net6.0\Activity04.GeneratedMSBuildEditorConfig.editorconfig
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\obj\Debug\net6.0\Activity04.AssemblyInfoInputs.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\obj\Debug\net6.0\Activity04.AssemblyInfo.cs
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\obj\Debug\net6.0\Activity04.csproj.CoreCompileInputs.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\obj\Debug\net6.0\Activity04.dll
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\obj\Debug\net6.0\refint\Activity04.dll
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\obj\Debug\net6.0\Activity04.pdb
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\obj\Debug\net6.0\Activity04.genruntimeconfig.cache
+E:\Computer Science\Extra Semster\VP\Labs\Lab1\Activity04\Activity04\obj\Debug\net6.0\ref\Activity04.dll
